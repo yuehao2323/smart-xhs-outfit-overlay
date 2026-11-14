@@ -1,0 +1,119 @@
+{
+  "mode": "overlay",
+  "preset": "compact-notes",
+  "uniform_font": true,
+  "distribution": "balanced",
+  "sentence_lines": true,
+  "original_size": [
+    1800,
+    2492
+  ],
+  "rendered_size": [
+    1800,
+    2492
+  ],
+  "font": "C:/Windows/Fonts/msyh.ttc",
+  "boxes": [
+    {
+      "id": "title",
+      "role": "title",
+      "text": "亮色穿搭也能省心",
+      "style": "auto",
+      "lines": [
+        "亮色穿搭也能省心"
+      ],
+      "font_size": 41,
+      "line_height": 45,
+      "padding": 4,
+      "height": 53,
+      "rect": [
+        45,
+        322,
+        549,
+        375
+      ],
+      "resolved_style": "black",
+      "background": [
+        0,
+        0,
+        0,
+        255
+      ],
+      "foreground": [
+        255,
+        255,
+        255
+      ],
+      "corner_radius": 0
+    },
+    {
+      "id": "outfit",
+      "role": "note",
+      "text": "黄色上下装同色\n短款上衣露出腰线\n束脚裤接得刚刚好",
+      "style": "auto",
+      "lines": [
+        "黄色上下装同色",
+        "短款上衣露出腰线",
+        "束脚裤接得刚刚好"
+      ],
+      "font_size": 41,
+      "line_height": 45,
+      "padding": 4,
+      "height": 143,
+      "rect": [
+        1341,
+        1125,
+        1755,
+        1268
+      ],
+      "resolved_style": "white",
+      "background": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "foreground": [
+        25,
+        26,
+        27
+      ],
+      "corner_radius": 0
+    },
+    {
+      "id": "boots",
+      "role": "extra",
+      "text": "白色尖头靴收尾\n给运动感加点利落\n换运动鞋也好看",
+      "style": "auto",
+      "lines": [
+        "白色尖头靴收尾",
+        "给运动感加点利落",
+        "换运动鞋也好看"
+      ],
+      "font_size": 41,
+      "line_height": 45,
+      "padding": 4,
+      "height": 143,
+      "rect": [
+        45,
+        1972,
+        531,
+        2115
+      ],
+      "resolved_style": "gray-white",
+      "background": [
+        76,
+        76,
+        76,
+        235
+      ],
+      "foreground": [
+        255,
+        255,
+        255
+      ],
+      "corner_radius": 0
+    }
+  ],
+  "note": "人物区域来自视觉模型估计；已按给定区域检查零相交，仍需视觉验收。"
+}

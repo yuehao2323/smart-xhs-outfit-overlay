@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "preset": "compact-notes",
+  "uniform_font": true,
+  "sentence_lines": true,
+  "distribution": "balanced",
+  "image": "source.jpg",
+  "source_sha256": "07b405267236ad3fee521985170c91d4aaff67c9ccdf7e8c281676a5a1bc4ba8",
+  "source_size": [1800, 2492],
+  "post_type": "OOTD",
+  "preferences": {"tone": "日常自然", "length": "短", "focus": "配色与单品解析"},
+  "analysis": {
+    "people": [{"bbox": [0.32, 0.05, 0.73, 0.93], "faces": [[0.435, 0.055, 0.565, 0.168]]}],
+    "items": [
+      {"name": "短款连帽上衣", "color": "明黄色", "bbox": [0.325, 0.13, 0.675, 0.36], "observation": "连帽、抽绳、短下摆，可见腰腹"},
+      {"name": "束脚长裤", "color": "明黄色", "bbox": [0.35, 0.34, 0.725, 0.83], "observation": "松紧抽绳腰头、宽松裤腿与收紧裤脚"},
+      {"name": "尖头短靴", "color": "白色", "bbox": [0.34, 0.8, 0.725, 0.93], "observation": "白色靴面、尖头，与运动套装形成风格混搭"}
+    ],
+    "style": "运动休闲与尖头靴混搭（风格判断）",
+    "mood": "晴天球场，蓝绿色天空与黄色服装对比鲜明（氛围判断）",
+    "whitespace": [[0.04, 0.04, 0.3, 0.32], [0.75, 0.08, 0.96, 0.56], [0.04, 0.43, 0.3, 0.7], [0.75, 0.6, 0.96, 0.9]],
+    "protected_regions": [[0.05, 0.35, 0.275, 0.64]],
+    "uncertainties": ["无法从照片确认品牌、面料成分、价格或实际保暖程度", "人物及脸部坐标为视觉估计，已留保护余量"]
+  },
+  "boxes": [
+    {"id": "title", "role": "title", "text": "亮色穿搭也能省心", "style": "auto"},
+    {"id": "outfit", "role": "note", "text": "黄色上下装同色\n短款上衣露出腰线\n束脚裤接得刚刚好", "style": "auto"},
+    {"id": "boots", "role": "extra", "text": "白色尖头靴收尾\n给运动感加点利落\n换运动鞋也好看", "style": "auto"}
+  ],
+  "fallback": "panel",
+  "caption": "今天的配色想法：把黄色穿成一整套。短款连帽上衣配同色束脚裤，腰线很清楚；鞋子换成白色尖头短靴，多了一点利落感。想尝试亮色，又不想纠结太多配色，可以从同色系搭配开始。\n\n#OOTD #今日穿搭 #同色系穿搭 #运动风穿搭 #亮色穿搭",
+  "source_credit": {"photographer": "Dom Hill", "platform": "Unsplash", "page": "https://unsplash.com/photos/nimElTcTNyY", "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=1800&q=95&fit=max", "usage": "测试演示素材，非用户本人照片；保留来源信息"}
+}
